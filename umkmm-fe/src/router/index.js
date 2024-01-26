@@ -7,7 +7,7 @@ import Edit from '@/views/FormsView.vue'
 const routes = [
   {
     meta: {
-      title: 'Select style'
+      title: 'Home'
     },
     path: '/',
     name: 'style',
